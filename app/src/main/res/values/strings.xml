@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Stats</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="edit_user_title">Introduzca sus datos personales a continuación:</string>
+    <string name="text_name">Nombre:</string>
+    <string name="text_surname">Apellidos:</string>
+    <string name="text_alias">Apodo:</string>
+    <string name="text_number">Dorsal favorito:</string>
+    <string name="text_peso">Peso:</string>
+    <string name="text_altura">Altura:</string>
+    <string name="accept">Accept</string>
+    <string name="text_cancell">Cancell</string>
+    <string name="title_activity_team">TeamActivity</string>
+
+
+</resources>
